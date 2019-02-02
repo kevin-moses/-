@@ -1,5 +1,7 @@
 ## 1 Feburary 2019 - Page Published
 
+![alt text](IMG_2023.jpg)
+
 This website was published with github.io and can be viewed [here](https://github.com/kevin-moses/kmoses.github.io/edit/master/README.md).
 
 Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -39,4 +41,4 @@ _Support or Contact_
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-![alt text](https://github.com/kevin-moses/page/IMG_6144.jpg "Taiwan")
+![alt text](IMG_6144.jpg)
